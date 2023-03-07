@@ -68,5 +68,4 @@ yarn install
 yarn start
 ```
 
-# Autor
-Jair Torezone Euzebio Ribeiro
+
